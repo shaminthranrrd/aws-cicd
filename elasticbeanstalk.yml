@@ -1,8 +1,0 @@
-branch-defaults:
-  master:
-    environment: my-eb-environment
-global:
-  application_name: my-eb-app
-  default_region: us-east-1
-  platform: "64bit Amazon Linux 2 running Apache"
-  workspace_type: Application
